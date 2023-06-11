@@ -1,12 +1,12 @@
 # hse23_bioinf_project
 
-###Описание белка
+### Описание белка
 [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314539/), we demonstrate that Zcwpw1 is an H3K4me3 reader that is required for DSB repair and synapsis in mouse testes.
 
 В белке ZCWPW1 наблюдаются домены PWWP super family(3), zf-CW super family.
 Экспрессия: Testis(144.0)
 
-##Выравнивания
+## Выравнивания
 
 H2A
 ![image](https://github.com/Epifanov-Evgeny/hse23_bioinf_project/assets/87313319/d5f56237-8d18-43dc-b81a-bd526887ee88)
@@ -39,7 +39,8 @@ e_value
 | ZCWPW1 | 300      | 300      |     10.5986 |      4.95468 |     1.37675 |   1.85387 |  2.69897 |              0       |       0        | 0         |        0       |
 
 
-Heatmap:
+Heatmap: 
+
 ![image_2023-06-11_23-29-49](https://github.com/Epifanov-Evgeny/hse23_bioinf_project/assets/87313319/a6e8c1d1-0da9-4792-80ab-a7f5b77a59c2)
 
 Вывод: Разность длин данного белка и его гомолога меньше всего для Mouse, а для zebrafish разность слишком большая, и он не может считаться гомологом. Эволюционно ген появился в Mouse (позвоночные)
